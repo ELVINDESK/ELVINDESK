@@ -7,7 +7,7 @@
 
 ---
 
-## <h1>👨‍💻 Sobre mim</h1>
+<h1 alingn="center">👨‍💻 Sobre mim</h1>
 
 Sou desenvolvedor focado em criar aplicações modernas, funcionais e bem estruturadas.  
 Atualmente estudando arquitetura de software e aprofundando conhecimentos em backend.
