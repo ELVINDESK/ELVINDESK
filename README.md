@@ -1,22 +1,66 @@
-## OI, BEM VINDO(A) AO MEU PERFIL👋
+<h1 align="center">👋 Olá, eu sou o Vinícius</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...  
--->
- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+<p align="center">
+  💻 Desenvolvedor Web <br>
+  🚀 Criando projetos modernos e funcionais <br>
+  🌎 Brasil
+</p>
+
+---
+
+## 🚀 Sobre mim
+
+🎯 Focado em desenvolvimento Front-end e Back-end  
+🔥 Apaixonado por tecnologia e inovação  
+📚 Sempre aprendendo algo novo  
+
+---
+
+## 🛠️ Tecnologias que eu uso
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,git,github,tailwind" />
+
+</div>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ "Transformando ideias em código e código em soluções."
+</p>
