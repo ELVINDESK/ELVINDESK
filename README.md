@@ -37,11 +37,10 @@ Atualmente estudando arquitetura de software e aprofundando conhecimentos em bac
 ## 🌐 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/">
-    LinkedIn
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-silva-veloso-67b661374/">
+    <h1>Meu Linkedin</h1>
   </a>
 </p>
-
 ---
 
 <p align="center">
