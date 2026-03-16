@@ -17,7 +17,7 @@ Atualmente estudando arquitetura de software e aprofundando conhecimentos em bac
 ## 🚀 Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python, git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,git,github" />
 </p>
 
 ---
