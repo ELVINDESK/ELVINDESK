@@ -2,7 +2,7 @@
 
 <p align="center">
   Desenvolvedor Full Stack <br/>
-  Foco em React, Python e sistemas modernos
+  Segurança da informação
 </p>
 
 ---
