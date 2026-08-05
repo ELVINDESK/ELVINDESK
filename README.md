@@ -9,8 +9,7 @@
 
 <h1 alingn="center">👨‍💻 Sobre mim</h1>
 
-Sou desenvolvedor focado em criar aplicações modernas, funcionais e bem estruturadas.  
-Atualmente estudando arquitetura de software e aprofundando conhecimentos em backend.
+Desenvolvedor FullStack - Segurança da informação
 
 ---
 
@@ -22,8 +21,6 @@ Atualmente estudando arquitetura de software e aprofundando conhecimentos em bac
 
 ---
 
----
-
 ## 🔥 Streak
 
 <div align="center">
@@ -32,15 +29,6 @@ Atualmente estudando arquitetura de software e aprofundando conhecimentos em bac
 
 </div>
 
----
-
-## 🌐 Contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/vin%C3%ADcius-silva-veloso-67b661374/">
-    <h1>Meu Linkedin</h1>
-  </a>
-</p>
 ---
 
 <p align="center">
