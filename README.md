@@ -1,4 +1,4 @@
-<h1 align="center">Vinícius Silva</h1>
+<h1 align="center">Vinícius/Seven</h1>
 
 <p align="center">
   Desenvolvedor Full Stack <br/>
