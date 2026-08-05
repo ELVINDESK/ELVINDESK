@@ -16,7 +16,7 @@ Desenvolvedor FullStack - Segurança da informação
 ## 🚀 Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,git,github,php" />
 </p>
 
 ---
